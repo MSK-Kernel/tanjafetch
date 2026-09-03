@@ -1,0 +1,12 @@
+Tanjafetch is a configuration for fastfetch that uses fastfetch with the TanjaOS logo and colors.
+This is not a seperate fetch utility, package, or script.
+
+To install tanjafetch, follow these instructions:
+
+1) Give exucution permissions to install.sh
+-> chmod +x install.sh
+
+2) Execute install.sh to install tanjafetch
+-> ./install.sh
+
+Thats it! For more information, please contact saffron.msk@gmail.com
