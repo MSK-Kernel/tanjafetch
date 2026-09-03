@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Exit immediately if a command exits with a non-zero statu
+# Exit immediately if a command exits with a non-zero status
 set -e
 
 # Check if /etc/os-release exists
